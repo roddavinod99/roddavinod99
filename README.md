@@ -18,7 +18,7 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="http://html5.com/https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="http://html5.com/images/HTML5_logo.png"/ height="48px"> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="http://html5.com/images/HTML5_logo.png"/ height="48px"> </a> 
     
 </p>
 
