@@ -1,6 +1,6 @@
 ![Header](https://github.com/roddavinod99/roddavinod99/blob/3e0598debb8059200d4f6ff7417b67ae0f011972/github-header-image.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100px">, I'm Vinod Kumar Rodda</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Vinod Kumar Rodda</h1>
 <h3 align="center">I'm a passionate Java Developer from India.</h3>
 
 
