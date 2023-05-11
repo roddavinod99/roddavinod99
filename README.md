@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms. | Full Stack Web Development.**
+- 🌱 I’m currently learning **Devops.**
 
 
 - 📫 How to reach me **roddavinod99@gmail.com**
