@@ -3,8 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Vinod Kumar Rodda</h1>
 <h3 align="center">I'm a passionate Java Developer from India.</h3>
 
-<iframe src="https://free.timeanddate.com/clock/i99r49id/n505/tlin/fn7/fti/tt0/tw0/tm1/td2/th2/ts1/ta1/tb4" frameborder="0" width="91" height="40"></iframe>
-
 ## 🙋‍♂️ About Me
 
 
